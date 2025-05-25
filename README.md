@@ -1,16 +1,23 @@
-## Hi there 👋
+# Megadora001のプロフィール
 
-<!--
-**Megadora001/Megadora001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自己紹介
 
-Here are some ideas to get you started:
+こんにちは、Megadora001です。  
+現在は中学生で、Pythonを中心にプログラミングの勉強をしています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## スキル
+
+- Python（勉強中）
+
+## 今やっていること
+
+- 主にプログラミングの基礎を学んでいます。
+
+## プロジェクト
+
+- 現時点でお気に入りや自信のあるプロジェクトはありませんが、これからいろいろ挑戦していく予定です。
+
+---
+
+これからも自分のペースで学びを続けていきます！  
+(ちなみに、この文章はCopilotに生成してもらいました。)
